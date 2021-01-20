@@ -1,5 +1,7 @@
 ---
-description: 'Alvo: Anti Tracks v5.6.1   | ARM 4.xx-Code Splicing'
+description: >-
+  Alvo: Anti Tracks v5.6.1   | ARM 4.xx-Code Splicing | Livro traduzido:
+  Team-REA
 ---
 
 # Armadillo 4.xx-Code Splicing
@@ -15,7 +17,7 @@ Nesse tutorial você vai precisar das seguintes ferramentas:
 
 Você pode adaptar para a nova geração com as seguintes configurações:
 
-* x96Dbg - Com Str0ngOD ou qualquer outro Anti-Debug de sua preferência
+* x96Dbg - Com SharpOD ou qualquer outro Anti-Debug de sua preferência
 * Scylla Dump
 
 ## **Iniciando o Unpacking**
